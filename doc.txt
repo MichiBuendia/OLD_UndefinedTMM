@@ -1,0 +1,720 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red242\green242\blue242;\red64\green100\blue167;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid1\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid102\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid103\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li2160\lin2160 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat9\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid202\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid203\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li2160\lin2160 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{lower-alpha\})}{\leveltext\leveltemplateid301\'02\'00);}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{lower-alpha\})}{\leveltext\leveltemplateid401\'02\'00);}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12180\viewh13400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 NOME PROGETTO: "UNDEFINED"\
+ Applicazione di Title Match Making\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 FONDATORE DEL PROGETTO:\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+\cf0  Maurizio Bussi prossimo Tecnico Sviluppatore Software\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\qc\pardirnatural
+\cf0 BREVE DESCRIZIONE DEL PROGETTO:\
+esplosiva - circa 1500 - B2B &B2C -\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\fs36 \cf0 1) Da cosa nasce la volont\'e0 di intraprendere questo progetto d'impresa?
+\f0\fs20 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\fs24 \cf0 \
+	L' idea nasce da un'esigenza maturata all'interno di gruppi di lavoro che si incontravano per organizzare week end formativi su un tema specifico e particolare. Ecco che il prodotto dovrebbe andare a velocizzare i processi produttivi di ogni e qualunque utente che provi ad utilizzarla andando a generare in automaticamente una lista di titoli pronti per essere analizzati dal cliente facendo riferimento a delle hotword scelte dall'utente.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs32 \cf0 2) Quanto tempo \'e8 dedicato al progetto?(PROJECT MANAGEMENT E TEMPISTICHE)\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 Il progetto pu\'f2 essere portato avanti ogni momento libero della giornata.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 3) Motivazione e coinvolgimento(
+\i\fs30 autovalutazione della motivazione
+\i0\fs36 )\
+Sono fiducioso del mio progetto e credo ci siano solide ragioni per cui questo progetto possa diventare realt\'e0.\
+\
+4)Esperienza nel settore del progetto?\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 Nel settore ho un percorso di studi attinente a quello che dovr\'e0 essere la fase di costruzione del mio progetto, ovvero linguaggio di programmazione JS, Mysql per i database e Html e Css.\
+\
+5) Esperienze imprenditoriali?\
+Non ho nessuna esperienza a livello imprenditoriale\
+\
+6)Attitudini mie personali:\
+Creativo - Positivo - Competitivo - Determinato \
+\
+7) Obiettivo del progetto:\
+Velocizzare il processo di scelta di un determinato titolo rimandando a feedback una lista di possibilit\'e0 accelerando il processo di scelta del progetto.\
+\
+8) Il progetto sembra essere totalmente nuovo sarebbe da approfondire nel web se esistono app di web match making\
+\
+9)l'applicazione web dovrebbe essere gestita da un software dedicato e dovrebbe gestire delle informazioni in backend\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 10)
+\fs36 Quanto si ritiene essere complessa l'interazione dell'utente con il servizio?\
+l'interazione con l'utente dovrebbe essere gestita via computer, smartphone oppure tablet e dovrebbe prevedere i seguenti passaggi:\
+	- la scelta di parole chiave direttamente dall'utente oppure attraverso una  lista preselezionata da cui l'utente pu\'f2 scegliere massimo 3\\4 parole chiave e poi avr\'e0 come risposta un tot di idee.\
+\
+11)le limitazioni possono essere la lingua in quanto possono essere utilizzate al momento solo qui in italia al massimo si pu\'f2 pensare una traduzione in lingua inglese\
+\
+12)Modello di Business (fonti di guadagno) \
+potrebbero esserci fonti di guadagno che arrivano attraverso la pubblicit\'e0 oppure attraverso l'acquisto premium dell'applicazione\
+\
+13)Progetti complementari\
+al momento non siamo in grado di stabilire dei progetti complementari, ad esempio si potrebbero inserire dei processi automatici di generazione di idee titoli, come se ci fosse un brain-storming che va a radon, magari un brain-storming di immagini per suscitare delle idee..\
+\
+14) dovr\'e0 esserci un servizio di assistenza completo installato su un numero telefonico e su un indirizzo mail a parte apposito\
+\
+15)Il servizio che si vuole creare prevede un rapporto duraturo/continuativo con l'utente? \
+Il servizio interagisce con l'utente in modo continuativo ogni volta che l'utente ne ha bisogno.\
+\
+16)dall'utente il servizio \'e8 percepito come un prodotto che risolva un bisogno preciso.\
+\
+17)come si forma il prezzo dei servizi in vendita?\
+potrebbe essere una versione business per le aziende e le imprese e poi potrebbe esserci una versione basic per l'utente che vuole la free e magari una versione intermedia ad un prezzo intermedio, ma si punta molto sulla pubblicit\'e0.\
+\
+18)Mission aziendale:\
+"Il progetto mira a velocizzare i processi produttivi di tutte quelle persone che vogliono accelerare i tempi di scelta del nome del progetto"\
+\
+19)Scrivere 3 possibili mission per il progetto imprenditoriale:\
+	- velocizzare i processi produttivi di tutte le persone che vogliono dare il titolo a qualcosa;\
+	- nuovo brain-storming di immagini legate a titoli\
+	- database di titoli esistenti gi\'e0 usati per qualcosa\
+\
+20)il pitch dell' impresa:\
+30 secondi di presentazione di: valori, obiettivi e margini di sviluppo.\
+caratteristiche di un buon pitch:\
+- comprensibilit\'e0;\
+- passione;\
+- convinzione;\
+- competenza.\
+\
+21)\'e8 da preparare un pitch del progetto di 30 secondi efficace \
+\
+22) Pitch di primo livello\
+sono sufficienti 1 o 2 slides per dire cosa vuoi fare e a chi ti rivolgi e per quale motivo. Riassumere \'e8 il primo passo per chiarire a te stesso e agli altri. Poi carichiamolo su bizanami.com.\
+\
+23)c'\'e8 da fare un video pitch di presentazione\
+\
+24)Riassunto dell'idea in due righe:\
+"Nasciamo con l'idea di velocizzare il processo di scelta del titolo di un processo aiutando il confronto e l'interazione del team di sviluppo"\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 25) "
+\f1\i\fs32 \cf2 \cb3 Statistiche dimostrano come un'impresa abbia decine di probabilit\'e0 in pi\'f9 di nascere e crescere se sostenuta da pi\'f9 persone.
+\f0\i0\fs36 \cf0 \cb1 "\
+\
+26)le persone da coinvolgere nel progetto potrebbero essere dei compagni di corso:\
+- Robert\\Michele: hanno una buona dimestichezza nell'usare html e css hanno un buon designing dei siti li fanno puliti e armonici,\
+- Moreno\\Andrea: buona capacit\'e0 nel backend sulla parte database e programmazione magari in javascript usando il dbms mariadb;\
+\
+- Io: sto magari sulla parte logica e di programmazione backend dato che mi sto esercitando molto su javascript.\
+\
+\'e9 importante che i gruppi di lavoro che si ritrovano per dirsi a che punto sono del progetto e dirsi se possono aiutarsi, vedi giornata tipo TOP-IX\
+\
+27) Aggiungere i soci a bizanami\
+\
+28) Rapporto tra i membre della squadra?\
+"ci siamo conosciuti da poco per altri motivi rispetto a questo progetto"\
+\
+29)Competenze presenti all'interno della squadra:\
+Robert e Michele: design e parte grafica\
+\
+Moreno, Andrea e Io: abbiamo molta passione per il backend JS\
+\
+29)Mancanza di competenze come la gestiamo?\
+come vuole essere gestita la mancanza di competenze del team?\
+- acquisire una nuova risorsa,\
+- ecludere quella funzione dal progetto, \
+- assumere un dipendente, \
+- autoformarsi sull'argomento.\
+\
+LIMITI:\
+- linguaggi di programmazione: solo JS\
+- Dbms: mariadb o mysql\
+- non abbiamo nulla sulla sicurezza informatica.\
+- bootstrap(framework)\
+- nodeJS\
+- comunicazione\
+- project management\
+- AGILE\
+\
+30)Entusiasmo della squadra:\
+ancora non possiamo parlarne perch\'e9 non \'e8 stato coinvolto nessuno all'interno del progetto.\
+\
+31) Le intenzioni del team di sviluppo del progetto corrispondono coi vostri progetti futuri?\
+il gruppo non ha come aspettativa futura quella di lavorare nel progetto, ma sicuramente ha la voglia di emergere nel settore e fare esperienza poich\'e9 sono tutti compagni di corso appassionati al settore e che si sono anche impegnati a muoversi attivamente in eventi esterni come migrathon. possono essere interessati a fissare argomenti trattati nel corso da mille ore.\
+Bisogna proporgli il progetto, facendo prima un passaggio da top-ix facendosi vedere il progetto.\
+\
+32)L'opportunit\'e0 di impresa \'e8 conforme alla propensione al rischio della squadra?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 C'\'e8 corrispondenza tra il massimo rischio che la squadra \'e8 disposta a correre e il rischio richiesto per la realizzazione dell'impresa?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\i0\fs36 \cf0 \cb1 non essendo stata fatta la proposta ai membri e non possiamo sapere quanto siamo disposti a correre dei rischi per il progetto.\
+parlando per me posso dire che per il progetto sono disposto a spendermi molto purch\'e9 esso mi  restituisca sottoforma di competenze e cv ed eventualmente anche in denaro.\
+\
+33)La squadra \'e8 reattiva, in grado di cambiare rapidamente, di cogliere le opportunit\'e0 e reagire di conseguenza?\
+la squadra \'e8 una squadra flessibile cui appartiene una personalit\'e0 ad ogni membro, ognuno ha le proprie caratteristiche e credo siano pronti a cambiare rotta e modificare se necessario gli step del progetto.\
+\
+34)I membri della squadra hanno gi\'e0 responsabilit\'e0 e ruoli definiti?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Nella gestione di una squadra \'e8 importante che ogni membro sia consapevole del proprio ruolo e che questo sia all'altezza delle proprie capacit\'e0 e competenze, conciliando il lavoro autonomo a quello di squadra, rispettandone le tempistiche e le scadenze per facilitare il flusso di lavoro.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\i0\fs36 \cf0 \cb1 Si i membri del team hanno il proprio ruolo definito in quanto in merito al progetto ci serviranno le seguenti figure:\
+BACK-END:\
+	- Andrea --> "(reps.)base di dati e/o javascript" potrebbe pensare alla parte DBMS e/o JS in quanto in classe \'e8 sembrato molto interessato dalla parte sql e gestione di una base di dati in questo caso relativa ad un database di keywords.\
+	- Maurizio --> "(resp.) Progetto, base di dati e/o javascript"potrebbe pensare alla parte  JS poich\'e9 la sua materia preferita(programmazione), e collaborare con il referente della parte JS per sviluppare oltre che collaborare con il collega di base di dati\
+	- Moreno --> "(reps.)Javascript e/o base di dati" potrebbe pensare alla parte DBMS e JS assieme agli altri membri della parte back-end molto preparato sulla parte logica della programmazione oltre che possedere parte delle competenze per sviluppare.\
+\
+FRONT-END:\
+	- Michele --> "Usabilit\'e0(reps.) e grafica"con un background da geometra ha una parte avvantaggiato sull'ordinare codice e ordinare lo stile della pagina.\
+	- Robert --> "Grafica(reps.)" ha un ottima gestione della grafica riesce a tirar fuori una bella grafica del progetto sicuramente, ordinata e armoniosa.\
+\
+35)Divisione dei compiti:\
+- iniziare a fare ricerche di mercato e di settore,\
+- realizzare un primo prototipo funzionale e cominciare a creare contatti e relazioni con futuri clienti o promotori. \
+\pard\pardeftab720\sl440\qc
+
+\fs26 \cf2 "Nonostante si inizier\'e0 a dedicare ciascuna persona del team a un ambito di lavoro specifico, tutti dovranno essere consapevoli degli avanzamenti degli altri, \
+mantenendosi sempre aggiornati e incontrandosi con regolarit\'e0."\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 36)Si ha un'idea di come porsi sul mercato?\
+Intendiamo metterci all'interno del mercato delle web application del settore del IT, offrendo una ricerca automatica di titoli eventi attraverso il matchmaking.\
+\
+37)Si ha un'idea precisa di chi potrebbe essere interessato al sito?\
+Gli interessati alla web application sono quelle persone che sono all'interno dei processi aziendali e per chiunque abbia bisogno di accelerare il processo di definizione di un titolo di un evento da organizzare, ottimizzando il processo progettuale; detto questo non si esclude che la mission possa prendere una direzione differente da  quella iniziale.\
+\
+38)orientato sia al B2B e sia al B2C\
+\
+39) gli utenti e i clienti coincidono?\
+si assolutamente chi paga il servizio pu\'f2 immediatamente usufruirne con delle agevolazioni, pu\'f2 avere la versione business, premium e la basic che \'e8 la versione di aggancio per l'utente privato con delle limitazioni.\
+\
+40)Chi dovrebbe pagare per usufruire del servizio?\
+solo i business e i premium\
+\
+41)\'c8 possibile determinare il numero di utenti ai quali il servizio potrebbe interessare? (mercato potenziale)\
+-tutte le aziende, tutte le associazioni organizzatrici di incontri, il privato che vorrebbe trovare un titolo del proprio progetto o idea o slogan pubblicitario ecc\
+\
+42)Determinare numero potenziale di utenti:\
+-  Dati Istat: circa 25mila aziende italiane(dati 2014) in italia e all'estero, associazionismo circa 480mila no profit(dati 2012)\
+- Biblioteche: consulta di manuali?\
+- Consulenza esperti professionisti nel settore: \
+		- consulenza con Alex Comunian Top-Ix? (piano tecnico-professionale)\
+		- Sara LaPietra coordinatrice Engim? (piano prj.management)\
+		- Vittorio De Carlo e/o Carmelo La Gamba (piano tecnico-professionale)\
+		- Claudio Bortolussi (piano comunicativo)\
+\
+43)Qual \'e8 il numero totale di possibili utenti che potrebbero essere interessati al servizio?\
+il numero di utenti interessati posso essere centinaia di migliaia considerando sia l'associazionismo(480m) e l'animazione e le imprese (25m) quindi circa un mezzo milione di utenti interessati.\
+\
+44) C'\'e8 gi\'e0 un nome per il progetto?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Il nome \'e8 il primo elemento che mette in contatto il progetto e i futuri clienti: deve essere il pi\'f9 possibile in armonia con il prodotto, piacevole e facile da ricordare.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\i0\fs36 \cf0 \cb1 "UNDEFINED"--> \'e8 il titolo del progetto che stiamo portando avanti e nasce dal linguaggio Js di non riuscito di qualcosa che non \'e8 benchiaro e che vuole essere chiarito attraverso delle istruzioni. ecco che di fatti il logo potrebbe essere un bersaglio con dentro un punto interrogativo.\
+\
+45)il dominio web \'e8 libero?\
+no il dominio della web abb dovrebbe essere acquistato e che diventi un marchio tutto suo.\
+\
+46) compra il tuo spazio sul web:\
+non sembrano esserci domini sul web con il nome www.undefined.com\
+\
+47) il logo non \'e8 ancora stato creato potrebbe essere un'idea di bersaglio sul punto interrogativo, ma meglio se magari il logo viene scelto dal team di sviluppo insieme.\
+\
+48) Spesa potenziale clienti in un anno\
+abbonamento mensile\\semestrale\\annuale rispettivamente:\
+BUSINESS:	\'805.00m\\\'8020.00\\\'8040.00 per persona/azienda\
+PREMIUM:	\'802.00\\\'808.00\\\'8015.00 per persona/azienda\
+BASIC:		free\\free\\free\
+\
+49) si determini la spesa annua potenziale dei clienti\
+cifratotale = (0.1% di tot aziende) * premium annuale\
+(500.000%0.1)*15 = 7.500 \'80 di guadagno per lo 0.1% di utilizzatori\
+\
+50)Quante volte si prevede che l'utente utilizzi il servizio in un anno?\
+l'utente utilizzer\'e0 il servizio numerose volte durante il corso dell'anno, e si trover\'e0 a dover effettuare l'acquisto secondo la modalit\'e0 prevista dal p.48\
+\
+51)\'c8 gi\'e0 stato individuato il migliore 'beachhead segment' (il segmento di mercato in cui si andranno a cercare i primi clienti)?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Per capire l'ampiezza e le potenzialit\'e0 di un mercato non basta valutarne le caratteristiche momentanee, bisogna anche conoscere la sua evoluzione e intuirne le evoluzioni future. Inoltre \'e8 fondamentale individuare i segmenti di mercato ai quali rivolgersi per primi: partire da una nicchia profittevole per poi crescere e puntare a segmenti sempre pi\'f9 grandi.
+\f0\i0\fs30 \cf2 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 il primo segmento di clienti con cui andremo ad interagire saranno i giovani del corso dell'universit\'e0 che fungeranno da tester con la versione basic per cercare i titoli ad i loro innumerevoli progetti richiesti dalla docenza universitaria, per poi andare ad aggrapparci al settore B2B e lanciare il nostro prodotto anche nel settore imprenditoriale.\
+\
+52)l'indice di variazione incremento\\decremento utenti lo calcolo sulla base dei seguenti criteri:\
+- andamento mercato IT ultimi anni(molto bene il mercato IT )\
+- andamento mercato IT medio/lungo termine (ottima crescita per il settore dell'IT che con questo progetto mette in comunicazione il settore con quello del confronto all'interno della discussione per alimentare l'ingresso di nuovo idee)\
+- effettiva utilit\'e0 (pu\'f2 essere utilizzato da chiunque ne senta il bisogno )\
+- prezzo del prodotto agevolazione con abbonamento(economico) per l'utente\
+\
+53)
+\fs36 Quanti potenziali concorrenti diretti della propria impresa sono stati individuati finora?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Conoscere i propri concorrenti e i relativi prodotti \'e8 fondamentale. Tramite la ricerca di settore si potranno comprendere meglio le dinamiche degli altri attori e orientare di conseguenza la strategia di mercato. Una prima ricerca pu\'f2 essere fatta sul web: inserendo le parole chiave attinenti al progetto si potranno avere gi\'e0 alcuni risultati. Ma \'e8 bene approfondire con indagini pi\'f9 accurate.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\i0\fs36 \cf0 \cb1 Da una prima indagine web dell'applicazione che ha come oggetto questo progetto si pu\'f2 dedurre che non sono presenti delle applicazioni in grado di generare automaticamente dei titoli "parlanti" MA E' IMPORTANTE APPROFONDIRE!\
+\
+54)Si conoscono i principali servizi concorrenti e/o simili? \
+Si le pi\'f9 comuni applicazioni di match making possono essere quelle di abbinamento gare sportive all'interno di videogame oppure come software dedicati per le agenzie di scommesse\
+\
+55)individuare i concorrenti possibili:\
+IMPORTANTE DA FARE UN INDAGINE DI MERCATO APPROFONDITA\
+\
+56)\
+Non sono stati provati i servizi offerti dai concorrenti\
+\
+57) cercare di studiare la funzionalit\'e0 della concorrenza in maniera tale che venga capito il suo funzionamento.\
+\
+58) sono chiari a grandi linee i dettagli dei concorrenti?\
+non ancora perch\'e9 non \'e8 stata effettuata alcuna indagine\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 59) Quando \'e8 stata l'ultima volta che si sono analizzati i servizi/prodotti dei propri concorrenti diretti, per valutarne eventuali evoluzioni?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Le informazioni che sono state raccolte sui servizi/prodotti concorrenti sono importanti e costituiscono un valido riferimento per quanto si cerca di realizzare, ma non esaustive: si tenga a mente di ripetere la ricerca a intervalli regolari in quanto il settore \'e8 in continua evoluzione.
+\f0\i0\fs36 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 non sono ancora stati analizzati i concorrenti diretti del mio progetto per fare un confronto dei competitore.\
+\
+60)quanti concorrenti sono stati individuati?\
+non sono stati individuati concorrenti al momento perch\'e9 deve essere redatto un documento di analisi\
+\
+61) qual \'e8 il tasso di crescita del settore?\
+molto elevato il mercato dell'IT \'e8 in forte crescita ma \'e8 meglio approfondire\
+\
+62)indagine sui costi fissi e costi variabili\
+costi fissi:\
+- wifi agganciato costantemente su un server \
+- elettricit\'e0 per il server 24h/24\
+- manutenzione\
+\
+costi variabili:\
+- il tempo dedicato per la manutenzione e gestione del sito\
+- costi di aggiornamento\
+- costi di indagini di mercato\
+- pay on playstore\
+- i dipendenti ed il loro tempo.\
+\
+63)La differenziazione dei servizi offerti dai concorrenti \'e8:\
+non sembra essere presente un prodotto concorrente che soddisfi questo genere di bisogno.\
+\
+64)le barriere all'uscita sono?\
+non ci sarebbero difficolt\'e0 a riadattare il progetto sulla base di condizioni di mercato mutate.\
+\
+65)Tra i concorrenti sono presenti molte compartecipazioni, alleanze strategiche?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\fs32 \cf0 \'c8 importante aver chiaro il livello di integrazione dei concorrenti per comprendere il grado di aggredibilit\'e0 del mercato e le strategie da adottare.
+\f0\fs30 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 Non sono in grado di identificare se tra i competitors sono presenti alleanze strategiche\
+\
+66)come si comporta la concorrenza sul mercato?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Quanto sono aggressivi i concorrenti con i loro servizi (promozioni, campagne pubblicitarie...)?
+\f0\i0\fs30 \cf2 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 Non percepisco un'aggressivit\'e0 da parte dei competitors rispetto al mercato in cui noi andiamo incontro, poich\'e9 non soddisfano i nostri bisogni in quanto la loro mission \'e8 differente.\
+\
+67)Quanti servizi sostitutivi o complementari al proprio sono stati finora individuati?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\fs32 \cf0 Non esistono solamente i diretti concorrenti e i fornitori. Sono da considerare almeno altre due componenti: i servizi/prodotti sostitutivi e quelli complementari.
+\f0\fs30 \
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs36 \cf0 Finora sono stati individuati da 2 a 3 servizi complementari che possono sostituirsi al servizio di base.\
+- brain-storming\
+- slogan pubblicitari\
+- titoli gi\'e0 esistenti\
+\
+68) si conoscono servizi sostitutivi?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 I servizi sostitutivi sono servizi diversi ma che ugualmente possono soddisfare il bisogno degli utenti/clienti.
+\f0\i0\fs30 \cf2 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 Si come citato sopra conosciamo i servizi sostitutivi al nostro servizio di  base. vedi p.67\
+\
+69)Quanti servizi sostitutivi sono stati individuati?\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 sono stati individuati 3 servizi sostitutivi vedi p.67 questi servizi sostitutivi per\'f2 in realt\'e0 non sono molto pericolosi per il nostro progetto.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 70)
+\fs36 Quante e quanto grandi sono le aziende che forniscono i servizi sostitutivi?\
+al momento non sono state trovate aziende che forniscono servizi sostitutivi\
+\
+71)redigere documento servizi sostitutivi\
+\
+72)Si conoscono servizi complementari?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 I servizi complementari sono quei servizi che, integrati al proprio, rafforzano e migliorano l'esperienza utente e il valore aggiunto. Possono essere gi\'e0 presenti o possono essere introdotti successivamente.
+\f0\i0\fs30 \cf2 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 si assolutamente come servizi complementari che pu\'f2 erogare il nostro servizio sono:\
+- brainstorming su base img o keyword\
+- slogan pubblicitari\
+- database di titoli gi\'e0 esistenti dei progetti\
+\
+73)Quale fra le seguenti risorse \'e8 quella al momento pi\'f9 carente per poter realizzare l'impresa?\
+\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\ql\qnatural\pardirnatural
+\ls1\ilvl0\cf0 {\listtext	\uc0\u8259 	}tecnologie ci siamo perch\'e9 ogni membro dispone di un pc su cui lavorare,\
+{\listtext	\uc0\u8259 	}contatti mauri ha diversi contatti a cui chiedere qualcosa che possa risultare utile per il processo del progetto, anche gli altri potrebbero avere diversi contatti (carta delle relazioni laboratorio net4job)\
+{\listtext	\uc0\u8259 	}risorse finanziare mancano poich\'e9 nessuno tra noi adesso si sente di investire dei soldi magari dopo si, per adesso possiamo solo investire del tempo che comunque \'e8 denaro,\
+{\listtext	\uc0\u8259 	}per le competenze tecniche si potrebbe fare riferimento come riportato nel p.42 a quegli esperti.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 \
+domande spontanee:\
+-assumiamo un altro componente o ci formiamo?\
+\
+74)Sono gi\'e0 state individuate le risorse, le competenze, le tecnologie chiave per mettere in piedi il progetto web?\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 si abbiamo gi\'e0 individuato le risorse: javascript backend, database sql e mariadb, html5 e css3, project management, comunicazione, organizzazione.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 75)
+\fs36 Quali sono gli elementi indispensabili per la realizzazione del sito?\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 credo che gli elementi indispensabili per sviluppare il nostro progetto siano le seguenti:\
+- le competenze tecniche in db sql, javascript e html e css\
+- ci vuola una buona motivazione ed un obiettivo comune\
+- consigli di esperti nel settore che possono supportare con l'esperienza i nostri progetti\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 76)
+\fs36 Quali sono le motivazioni in base alla quale si ritengono indispensabili questi elementi?\
+sono state opinioni mie personali e quelle di esperti in chiaro\
+\
+77)Questi elementi indispensabili sono difficili da reperire?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\fs32 \cf0 Non tutte le risorse (materiali, professionali, tecnologiche, economiche\'85) sono immediatamente disponibili: quali sono le pi\'f9 difficili da acquisire?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\fs36 \cf0 la motivazione potrebbe essere l'unico motivo soggettivo che dipende da persona a persona\
+\
+78)Si dispone di queste risorse chiave?\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\fs30 \cf2 si assolutamente io dispongo di queste risorse chiave , magari sono pi\'f9 carente nell'aspetto tecnico ma sperimentando e sperimentando credo di poter fissare le competenze tecniche. La squadra soddisfa le risorse in pieno, purtroppo ancora \'e8 da valutare la motivazione e la loro reazione al progetto. a mio giudizio mancano magari delle competenze gestionali trasversali per gestire le riunioni per gestire le \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 79)
+\fs36 Si pensa di poter ottenere facilmente gli elementi chiave che ancora mancano?\
+non credo sia facile reperire la motivazione ad un progetto, io sono emotivamente coinvolto e quindi per me \'e8 facile, io credo che ogni collaboratore debba sentire il proprio giocattolo suo per lavorare bene, perci\'f2 per me \'e8 indispensabile che ognuno di loro faccia suo il progetto e che lo modelli come crede(ma in realt\'e0 \'e8 davvero cos\'ec?)\
+\
+80)Si ritiene che i concorrenti possano facilmente reperire gli stessi elementi chiave per la realizzazione del business?\
+si credo che siano facilmente imitabili i nostri servizi e che possano ottenere le risorse chiave abbastanza facilmente\
+\
+81) le risorse chiave non risultano essere molto costose\
+\
+82)il FATTORE CRITICO DI SUCCESSO ovvero il CSF \'e8 un elemento fondamentale e possono essere i seguenti nel nostro progetto:\
+- la soddisfazione del cliente,\
+- capitale intellettuale,\
+- qualit\'e0.\
+Proteggiamoli con brevetti marchi e reputazioni\
+\
+83)Se si disponesse di tutte le risorse chiave, potrebbero essere protette in qualche modo?\
+non saprei come proteggere le mie risorse chiave\
+\
+84)come potremmo proteggere le risorse chiave?\
+- reputazione \
+- marchio\
+- brevetti\
+\
+85) Si conoscono ambienti legati al settore?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Settore e mercato sono due elementi interconnessi ma distinti. \'c8 importante frequentare gruppi, forum, giornali afferenti al settore: pu\'f2 essere utile per comprendere le evoluzioni del mercato e i bisogni degli utenti!
+\f0\i0\fs36 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 si conosco alcuni ambienti ma sarebbe il caso di leggere riviste o blog a riguardo.\
+\
+86) Posso contattare facilmente esperti nel settore, fare una mappatura delle nostre reti professionali\
+\
+87)cerca esperti del settore interessati al tuo progetto e ottieni un parere e confrontarsi con le persone. gli esperti da contattare sono quelli citati al punto 42\
+\
+88)\'c8 stato individuato un segmento target all'interno del mercato a cui potersi rivolgere offrendo vantaggi chiari e convincenti?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Esiste una fascia di mercato a cui potersi rivolgere, sapendo di poter offrire un servizio appetibile? Contestualmente bisogna considerare se si tratta di un segmento la cui aggressione irriterebbe dei concorrenti o risveglierebbe il loro interesse.
+\f0\i0\fs36 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 la fasce di mercato cui noi andremo incontro sono tutti coloro che stanno vivendo l'esperienza universitaria della progettualit\'e0 delle tesine, fino al dirigente delle posteitaliane che cerca il titolo per la sua campagna pubblicitaria sullo  smistamento lettere rapido quindi:\
+da 19 a 45 anni, possessori di smartphone e di connessione internet, geograficamente pi\'f9 collocati nelle zone urbane\
+\
+89) Il cliente/utente percepisce chiaramente quali sono i vantaggi che vengono offerti?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\fs32 \cf2 \cb3 Un obiettivo cruciale \'e8 dimostrare ad utenti e clienti che il servizio pu\'f2 davvero cambiare, innovare e migliorare qualcosa e dimostrare perci\'f2 la fondatezza e sensatezza del progetto imprenditoriale.
+\f0\i0\fs30 \cf2 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 certo che percepisce i vantaggi chiaramente poich\'e9 il nostro progetto farebbe risparmiare del tempo alle tavole rotonde organizzative, chi non vorrebbe un applicazione che ti dimezza il tempo ricerca. pi\'f9 produttivit\'e0 ampio panoramica di idee c'\'e8 qualcosa che pu\'f2 fare il lavoro al posto tuo bene tu ti trovi solo a dover passare in rassegna i risultati ottenuti, seguendo ispirato dai risultati ottenuti.\
+\
+90)qual \'e8 il numero totale di possibili utenti in questo segmento?\
+centinaia di migliaia\
+\
+91) Si ritiene che l'accesso a questo segmento possa agevolare anche l'ingresso futuro in altri segmenti?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ql\qnatural\pardirnatural
+\cf0 ritengo che l'ingresso pu\'f2 accogliere l'ingresso di chiunque poich\'e9 credo che quello che andiamo  a  realizzare \'e8 un processo universale effettuato da chiunque abbia bisogno di supporto alla sua intraprendenza.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 92)Il mercato \'e8 abbastanza ampio da consentire a pi\'f9 concorrenti di servire diversi segmenti senza sovrapporsi?\
+si in un mondo di impresa dove molte imprese chiudono un supporto fa sicuramente comodo, e nelle attuali condizioni con molte imprese e sturt-up avviate potrebbero sovrapporsi diversi concorrenti certamente.\
+\
+93)Connessioni con gli ambienti legati al mercato di riferimento. Quanto la squadra imprenditoriale \'e8 in relazione con essi? \
+la piattaforma pi\'f9 utilizzata potrebbe essere linkedin e twitter e fb e magari qualche blog su fab-lab o simili per supportare l'innovazione con articoli.\
+\
+94)
+\f1\i\fs32 \cf2 \cb3 In ogni ambiente ci sono persone pi\'f9 influenti di altri: blogger, esperti, giornalisti, seguite e ascoltate attentamente dal settore di riferimento. \'c8 necessario identificarli e prendere contatto con loro per ottenere consigli, pareri, altri contatti e idee per il progetto. Inoltre, a uno stadio pi\'f9 avanzato, potrebbero aiutare a diffondere il servizio sui loro canali.\
+
+\f0\i0\fs36 \cf0 \cb1 Si conoscono esperti, lead user, trendsetter del mercato?\
+\
+si personalmente conosco esperti nel settore , posso chiedere a Vittorio, Carmelo, Alex di Engim, Andrea di Engim, Francesca altri esperti li conosciamo? e in pi\'f9 posso seguire tutte quelle persone che ho inserito nel file di cyber security\
+\
+95)
+\b \cf4 Quali feedback sono stati ricevuti finora?
+\f1\i\b0\fs32 \cf2 \cb3 I feedback costituiscono un'importante cartina tornasole per i punti pi\'f9 delicati del progetto e permettono di avere una prospettiva meno soggettiva di quanto si pensa. \'c8 essenziale non scoraggiarsi di fronte a critiche anche accese, ricondandosi comunque sempre che anche gli esperti pi\'f9 nominati si possono sbagliare. Mantenere oggettivit\'e0 e lucidit\'e0 nella ricezione di feedback mette nella posizione migliore per migliorare significativamente il progetto.
+\f0\i0\fs36 \cf0 \cb1 \
+Ecco le criticit\'e0 ricevute da un esperto (Alex C.) il titolo \'e8 un processo che non impiega molto tempo per essere trovato e non \'e8 cos\'ec importante per il processo aziendale in quanto viene scelto all'ultimo. Accogliamo la critica e cerchiamo di metabolizzarla in maniera costruttive.\
+Moreno e Michele dicono che si pu\'f2 fare, ritiene che la generazione di titoli pu\'f2 avvenire solamente in maniera randomica e difficilmente in maniera intelligente, per\'f2 non escludo la riuscita di un generatore intelligente di idee.\
+\
+96)
+\b \cf4 Si \'e8 gi\'e0 riflettuto sul mercato di riferimento per il proprio servizio?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\b0\fs32 \cf2 \cb3 Finora ci si \'e8 basati per lo pi\'f9 su assunzioni personali e su feedback di singole persone operanti nel settore. Adesso \'e8 il momento di effettuare una vera indagine di mercato. Ci sono sostanzialmente due metodi utilizzabili: questionario da compilare o intervista da effettuare direttamente alle persone. La ricerca serve per individuare la domanda, non per crearla.\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\f0\i0\fs30 \cf2 \cb1 si io mi immagino come detto sopra che possa essere orientato all'interno delle aziende\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 \
+97) 
+\b \cf4 Come verr\'e0 sottoposto principalmente il questionario o l'intervista?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\b0\fs32 \cf2 \cb3 Si \'e8 gi\'e0 delimitato un segmento di utenti-tipo per il proprio servizio; ora occorre capire come ottenere le informazioni oggettive sulla consistenza ed esigenze di tale mercato di riferimento.\
+\pard\pardeftab720\sl440\ql\qnatural
+
+\f0\i0\fs30 \cf2 \cb1 il questionario potr\'e0 essere compilato tramite  un sondaggio online\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 \
+98) 
+\b \cf4 In passato, si \'e8 mai steso un questionario per capire interessi e bisogni dei clienti potenziali della propria impresa?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\b0\fs32 \cf2 \cb3 Un questionario o una intervista devono essere costruiti per verificare - o smentire - alcune assunzioni iniziali riguardo al mercato. Si devono porre domande per approfondire le esigenze dei futuri clienti e capire su cosa puntare per differenziare il proprio prodotto/servizio dalla concorrenza. Un buon metodo per realizzare interviste efficaci \'e8 descritto nel libro 'The Mom Test' di Rob Fitzpatrick.
+\f0\i0\fs36 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 Potrei sapere come portare avanti un sondaggio finalizzato a raccogliere informazioni utili per il progetto\
+\
+99)
+\b \cf4 Somministrare e diffondere il questionario: quanti potenziali clienti hanno risposto all'intervista?\
+\pard\pardeftab720\sl460\sa140\ql\qnatural
+
+\f1\i\b0\fs32 \cf2 \cb3 Ora occorre diffondere il questionario all'interno del segmento target: se si tratta di un documento cartaceo si pu\'f2 distribuire in zone tipiche di aggregazione (ad esempio sale studio o biblioteche, se il cliente tipo \'e8 uno studente); se online si possono utilizzare gruppi, forum, mailing list o community di riferimento. \'c8 bene spiegare agli intervistati il fine del questionario e offrire loro l'accesso ai risultati statistici ottenuti grazie alla ricerca. Per ottenere una statistica significativa delle risposte ricevute, occorrerebbe raggiungere almeno un centinaio di rispondenti.
+\f0\i0\fs36 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+\cf0 SI RIPARTE DA QUI\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+TO DO LIST:\
+\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\ql\qnatural\pardirnatural
+\ls2\ilvl0\cf0 {\listtext	1.	}Indagine approfondita della concorrenza a intervalli regolari\
+\pard\tx940\tx1440\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li1440\fi-1440\ql\qnatural\pardirnatural
+\ls2\ilvl1\cf0 {\listtext	\uc0\u8259 	}redigere un documento di sintesi sui concorrenti principali\
+{\listtext	\uc0\u8259 	}redigere un documento di sintesi sui riguardo ai servizi sostitutivi e delle relative aziende che li erogano, elencando punti di forza e debolezza\
+\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\ql\qnatural\pardirnatural
+\ls2\ilvl0\cf0 {\listtext	2.	}Effettuare uno studio sui Fattori Critici di Successo del nostro progetto\
+{\listtext	3.	}Cercare informazioni a proposito del settore del' Information Technology cominciando da facebook, community, riviste in biblioteca partecipando a incontri del settore, per fare networking e cogliere sviluppi e tendenze future.\
+\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\ql\qnatural\pardirnatural
+\ls2\ilvl0
+\fs30 \cf0 {\listtext	4.	}ricerca della previsione di incremento/decremento dei clienti, determinandone il tasso di variazione. Puoi usare le fonti che hai usato in precedenza, e orientarti analizzando in che modo \'e8 cambiato il mercato negli ultimi anni.\
+{\listtext	5.	}\cf2 Prepara un documento di sintesi delle informazioni che hai trovato sui trend di mercato - riguardo sia utenti che clienti - e sulle sue evoluzioni.\
+\ls2\ilvl0\cf0 {\listtext	6.	}individuare da subito gruppi di persone con bisogni e caratteristiche comuni per aiutare la campagna di comunicazione \
+{\listtext	7.	}
+\fs36 Numero potenziale di utenti (segmento target in riferimento al p.88)I
+\fs30 ndividua la dimensione e il numero dei possibili utenti (relativamente al segmento target) che utilizzerebbero il tuo servizio.\
+\pard\tx1660\tx2160\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li2160\fi-2160\ql\qnatural\pardirnatural
+\ls2\ilvl2\cf0 {\listtext	\uc0\u8259 	}\cf2 Calcola il numero totale delle persone nel mondo potenzialmente interessate ad utilizzare il tuo servizio;\
+{\listtext	\uc0\u8259 	}Stima la percentuale di persone che pensi effettivamente di raggiungere con i tuoi mezzi;\
+{\listtext	\uc0\u8259 	}Stima la percentuale di persone che pensi effettivamente di convincere;\
+{\listtext	\uc0\u8259 	}Moltiplica i tre numeri precedenti, il risultato sar\'e0 il numero di utenti potenziali;\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 	8.	
+\fs36 Numero potenziale di clienti (segmento target) 
+\fs30 Individua la dimensione e il numero dei possibili clienti (relativamente al segmento target) che acquisterebbero il tuo servizio.\
+\pard\tx1660\tx2160\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li2160\fi-2160\ql\qnatural\pardirnatural
+\ls3\ilvl2\cf0 {\listtext	\uc0\u8259 	}\cf2 Calcola il numero totale delle persone nel mondo potenzialmente interessate ad comprare il tuo servizio\
+{\listtext	\uc0\u8259 	}Stima la percentuale di persone che pensi effettivamente di raggiungere con i tuoi mezzi\
+{\listtext	\uc0\u8259 	}Stima la percentuale di persone che pensi effettivamente di convincere\
+{\listtext	\uc0\u8259 	}Moltiplica i tre numeri precedenti, il risultato sar\'e0 il numero di clienti potenziali\
+\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\ql\qnatural\pardirnatural
+\ls3\ilvl0\cf0 {\listtext	9.	}Dimensione di spesa segmento target. fai una stima del giro di denaro complessivo che i clienti potrebbero generare nel segmento di mercato che hai scelto.\
+\pard\tx1660\tx2160\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li2160\fi-2160\ql\qnatural\pardirnatural
+\ls3\ilvl2\cf0 {\listtext	\uc0\u8259 	}\cf2 Riprendi la stima del numero di clienti potenziali del segmento target \
+{\listtext	\uc0\u8259 	}Definisci alcuni casi studio significativi, cio\'e8 immagina almeno 5 'clienti-tipo' potenzialmente disposti ad acquistare i tuoi servizi (per esempio lo studente universitario, il giovane lavoratore, la casalinga, ...)\
+{\listtext	\uc0\u8259 	}Definisci la ragione specifica per cui ciascuno dei 'clienti-tipo' identificati in precedenza acquisterebbe il tuo servizio\
+{\listtext	\uc0\u8259 	}Stima la spesa media annuale di ciascuno dei 5 'clienti-tipo' che hai identificato, a seconda della frequenza e tipologia di servizio che tipicamente acquisterebbero per le loro necessit\'e0\
+{\listtext	\uc0\u8259 	}Stima a grandi linee - con l'aiuto di una ricerca sul web e su libri o pubblicazioni specialistiche - quale potrebbe essere la percentuale di occorrenza di ciascuno dei 'clienti-tipo' sul numero complessivo di potenziali clienti del segmento target. Rifacendosi all'esempio precedente, dei 20 milioni di potenziali clienti, potrebbe esserci un 10% (=2 milioni) di 'clienti-tipo' studenti, un 25% (=5 milioni) di 'clienti-tipo' giovani lavoratori e cos\'ec via....\
+{\listtext	\uc0\u8259 	}Per ciascuno dei 5 'clienti-tipo', moltiplicane la numerosit\'e0 per la spesa media annuale. Sommando poi i 5 valori cos\'ec ottenuti, sar\'e0 possibile ottenere una stima grossolana della dimensione di spesa potenziale annuale del proprio segmento target\
+\pard\tx220\tx720\tx1120\tx1680\pardeftab720\li720\fi-720\sl440\ql\qnatural
+\ls3\ilvl0\cf0 {\listtext	10.	}Trend del segmento:p\cf2 uoi utilizzare le fonti usate in precedenza per analizzare i trend del segmento. Per ottenere una stima dell'evoluzione, vedi come \'e8 cambiato il segmento negli ultimi anni e cerca di capire se continuer\'e0 con questo andamento o se sono possibili variazioni future.\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl440\ql\qnatural
+\ls3\ilvl2\cf0 {\listtext	\uc0\u8259 	}\cf2 Ricerca le statistiche di utenti del tuo settore dell'anno corrente \
+{\listtext	\uc0\u8259 	}Ricerca le statistiche di utenti del tuo settore degli anni passati \
+{\listtext	\uc0\u8259 	}Verifica se il numero cresce, decresce o si mantiene stabile \
+{\listtext	\uc0\u8259 	}Calcola la variazione\
+\pard\tx220\tx720\tx1120\tx1680\pardeftab720\li720\fi-720\sl440\ql\qnatural
+\ls3\ilvl0\cf0 {\listtext	11.	}INDAGINE AMBIENTI LEGATI AL MERCATO:\cf2 Fai una ricerca degli ambienti legati al tuo mercato e partecipa, coinvolgiti, indaga. Questa ricerca ti sar\'e0 utile per raccogliere informazioni e commenti sulla tua idea di impresa, rapportandoti direttamente col mercato. L'interazione con l'esterno \'e8 di fondamentale importanza per il futuro della tua azienda: bisogna riuscire a conoscere quanti pi\'f9 ambienti possibili, ricevere stimoli e riscontri da quante pi\'f9 persone possibili, in modo da identificare preventivamente le debolezze del servizio o del business model.\cf0 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl440\ql\qnatural
+\ls3\ilvl2\cf0 {\listtext	\uc0\u8259 	}\cf2 Fai una ricerca sul web per individuare i periodici letti dagli esperti o appassionati del settore in cui operi\
+{\listtext	\uc0\u8259 	}Fai una ricerca in biblioteca e leggi alcuni libri che trattano le tematiche pi\'f9 recenti del tuo settore di mercato\
+{\listtext	\uc0\u8259 	}Partecipa almeno a una fiera o manifestazione dedicata alle imprese del tuo settore di mercato\
+{\listtext	\uc0\u8259 	}Identifica i blog o forum su internet in cui gli 'addetti ai lavori' del tuo settore dibattono e si scambiano opinioni. Partecipa e fatti conoscere in un paio di discussioni.\
+\pard\tx220\tx720\tx1120\tx1680\pardeftab720\li720\fi-720\sl440\ql\qnatural
+\ls3\ilvl0\cf0 {\listtext	12.	}\cf2 Cerca esperti, lead user, trendsetter del tuo mercato di riferimento e prova ad esporre il tuo progetto di business. Puoi iniziare consultando gli ultimi numeri di riviste specifiche del settore, o partecipare ad una fiera/workshop/seminario del settore, prendendo contatto con i relatori. Ricordati di usare le funzionalit\'e0 della mappa presente su Bizanami.\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl440\ql\qnatural
+\ls3\ilvl2\cf0 {\listtext	\uc0\u8259 	}\cf2 Stendi una lista di imprese concorrenti operanti nel tuo settore. Qualcuna di queste ha sede nei dintorni di dove abiti? Se si, prova a prendere contatto e a organizzare un incontro con il responsabile aziendale delle comunicazioni, per verificare la possibilit\'e0 di sinergie.\
+{\listtext	\uc0\u8259 	}Contatta almeno 3 professionisti operanti nel tuo settore, cercando di ottenere qualche suggerimento riguardo a come inserirsi nel mercato.\
+{\listtext	\uc0\u8259 	}Identifica i principali esperti del tuo settore in ambito accademico; contattali per fare una chiacchierata e ottenere qualche consiglio o utile contatto.\
+{\listtext	\uc0\u8259 	}Contatta i curatori dei blog pi\'f9 influenti e seguiti del tuo settore, per provare a ottenere qualche informazione ulteriore sull'andamento del tuo segmento di mercato.\
+{\listtext	\uc0\u8259 	}Individua chi sono - nell'ambito della pubblica amministrazione locale - i responsabili della promozione dell'innovazione, della nuova impresa e dell'economia digitale\
+\pard\tx220\tx720\tx1120\tx1680\pardeftab720\li720\fi-720\sl440\ql\qnatural
+\ls3\ilvl0\cf0 {\listtext	13.	}Comprare dominio su aruba\
+{\listtext	14.	}fare un sondaggio o un questionario da girare a conoscenti che possano darci qualche informazione sull'utilit\'e0\
+{\listtext	15.	}\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\fs36 \cf0 \
+\
+\
+\
+\
+\
+\
+DOMANDE PER SARA:\
+\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\ql\qnatural\pardirnatural
+\ls4\ilvl0\cf0 {\listtext	a)	}e se ai ragazzi cui chiedo di fare il team si rifiutasse \'e8 giusto pensare ad altri componenti? \'e8 eticamente giusto pensare a delle persone alternative?\
+{\listtext	b)	}modalit\'e0 di presentazione del progetto in sala  con gli altri al tavolino per un'attivit\'e0 secondo cui dobbiamo trovare il titolo di un progetto efficace per un evento e magari far percepire sulla pelle anche a loro l'esigenza di un generatore automatico di titoli? pu\'f2 essere un'idea? con presentazione slide?\
+{\listtext	c)	}e se nessuno volesse partecipare io lo porto avanti anche da solo sar\'e0!! per\'f2 sono importanti i collaboratori e credo che anche loro siano importanti per il progetto e che possa dare loro qualcosa\
+{\listtext	d)	}come porto avanti il progetto? le riunioni? le assemblee? le eventuali critiche come devo accoglierle e come le metabolico per fare in modo che non passino solo per cortesia ma che passino perch\'e9 effettivamente sono migliorie reali del progetto?\
+{\listtext	e)	}dobbiamo pensare anche alla redazione? serve un web content manager?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 \
+DOMANDE DA FARE AD ALEX:\
+\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\ql\qnatural\pardirnatural
+\ls5\ilvl0\cf0 {\listtext	a)	}come gestire le riunioni di redefined del missino, come gestire le tavole rotonde con i collaboratori? con quali modalit\'e0? quali obiettivi teorici dovrebbero essere raggiunti nelle sedute di incontro?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qr\pardirnatural
+\cf0 Un grazie a Bizanami.com che ha ospitato il progetto.
+\fs30 \cf2 \
+\pard\pardeftab720\sl440\ql\qnatural
+\cf2 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+}
