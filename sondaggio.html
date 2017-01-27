@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD 4.01 Transitional//EN" 
+http://www.w3.org/TR/html4/loose.dtd>
+<html>
+<head>
+    <link rel="stylesheet" href="css/sondaggio.css">
+    <title>Sondaggio</title>
+    <link rel="stylesheet" href="sondaggio.css">
+    <meta name="description" content= "Un generatore intelligente di titoli per velocizzare i processi all'interno dell'azienda"> 
+    <meta name="keywords" content="B2B, B2C, generatore di titoli, azienda, produttività"> 
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+    <h1>SONDAGGIO</h1>
+    <h2>1) <span id="titoletti">Registrazione Personale</span></h2>
+    
+    <!--qui sto creando il form per il sondaggio della app -->
+    <form id="sondaggio" method="post" action="php/codice.php" autocomplete="on">
+    <!--può essere anche inserito action="mailto:maurizio.bussi@hotmail.it"-->
+    
+        <!--ho creato contenitore per il form con il fieldset-->
+        <fieldset>
+            
+            <!--ho creato un titoletto -->
+            <legend> DATI PERSONALI </legend>
+                
+                <!--ho creato dei dettagli in più-->
+                <details>
+                    <!-- ho fatto la tendina per i dettagli-->
+                    <summary>
+                        Perchè registriamo i tuoi dati?
+                    </summary>
+                    <p>i tuoi dati ci servono per fare un indice statistico degli utenti interessati alla Web App<p>
+                </details>
+                <br />
+                <!-- ho la finestrella di inserimento-->
+                <label>
+                    Nome
+                    
+                    <!--la casella di inserimento-->
+                    <input name="nome" value="nome" size="35" maxlength="30" required="required" autofocus="autofocus" type="text">
+                </label>
+                                
+                <label>
+                    Cognome
+                    <input name="cognome" value="cognome" size="35" maxlength="30" type="text">
+
+                </label>
+                <br /><br />
+                <label>
+                    Eta'
+                    
+                    <!--ho fatto la tendina di selezione-->
+                    <select name="eta">
+                        <option value=" ">Seleziona il tuo intervallo di età</option>
+                        <option value="teenager">16anni a 22anni</option>
+                        <option value="young">23anni a 28anni</option>
+                        <option value="aspirante">29anni a 36anni</option>
+                        <option value="affermato">37anni a 49anni</option>
+                        <option value="senior">50+ anni<option>
+                    </select>
+                </label>
+                <br /><br />
+                <label>
+                    E-Mail
+                    <input name="mail" value="indirizzo mail" type="text" size="55" maxlength="50">
+                </label>
+                
+        </fieldset>
+                <br />
+        <fieldset>
+        <!--qui inserisco le query sul lavoro della persona-->
+            <legend>INFORMAZIONI PROFESSIONALI</legend>
+                <label>
+                        <details>
+                            <summary>Settore di professione attuale</summary>
+                            <p>Possono essere selezionati più ambienti<p>
+                        </details>
+                        <br />
+                    
+                    <input name="1" value="1" type="checkbox"> Istruzione <br />
+                    
+                    <input name="2" value="2" type="checkbox"> Informatica <br />
+                    
+                    <input name="3" value="3" type="checkbox"> Sanità <br />
+                    
+                    <input name="4" value="4" type="checkbox"> Industria<br />
+                    
+                    <input name="5" value="5" type="checkbox"> Agricoltura <br />
+                    
+                    <input name="6" value="6" type="checkbox"> Altro <br />
+                    <input name="6" value="Specifica altro..." type="text">
+                </label>
+                <br />
+                <br />
+                <label>
+                    <details>
+                        <summary>Specifica i ruoli affidati nella tua professione</summary>
+                        <p>scrivi il ruolo da te assegnato durante le ore di lavoro</p>
+                    </details><br />
+                    <input name="ruolo" value="Ruolo 1" type="text" size="40" maxlength="35"> 
+                        <!--<input name="descrizione" value="Descrizione ruolo" ???>--><br /><br />
+                    <input name="ruolo" value="Ruolo 2" type="text" size="40" maxlength="35"> <br /><br />
+                    <input name="ruolo" value="Ruolo 3" type="text" size="40" maxlength="35"> <br /><br />
+                    
+                </label>
+                
+        </fieldset>
+        <br />
+        <fieldset>
+            <legend>VOLONTARIATO</legend>
+            <p>Hai mai avuto esperienze di volontariato?</p>
+            <input name="volontariato" type="radio">Si
+            <input name="volontariato" type="radio">No
+            <br /><br />
+            Se SI come valuti l'esperienza vissuta o che stai vivendo?
+            0 <input name="expvol" min="0" max="10" step="1" type="range"> 10
+        </fieldset>
+        
+        <!--faccio il sondaggio relativo al progetto-->
+        <br /><h2>2) <span id="titoletti">Dimmi cosa ne pensi di UndefinedTMM</span></h2>
+        <fieldset>
+            <legend>UNDEFINEDTMM</legend>
+            <details>
+                <summary>
+                Come conosci il progetto?
+                </summary>
+                <p>come sei venuto a conoscenza del progetto</p> 
+            </details><br />
+            
+            <label>
+                <input name="progetto" type="radio"> Social Network<br />
+                    <div id="space">
+                    <input name="progetto" type="checkbox"> Facebook<br />
+                    <input name="progetto" type="checkbox"> Twitter<br />
+                    <input name="progetto" type="checkbox"> Linkedin<br />
+                    <input name="progetto" type="checkbox"> Google+ <br />
+                    </div>
+                    <br /><br />
+                <input name="progetto" type="radio"> Quotidiani<br /><br />
+                <input name="progetto" type="radio"> Amici e Parenti<br /><br />
+                <input name="progetto" type="radio"> Aziende/Associazioni
+                <input name="progetto" value="nome azienda/associazione" type="text" size="40" maxlength="35"></input><br /><br />
+                <input name="progetto" type="radio"> Altro<input name="progetto" value="Specifica..." type="text" size="50" maxlength="100"><br /><br />
+            </label><br />
+                        <details>
+                        <summary>
+                        Ti è già stato presentato il progetto da qualcuno?<br /><br />
+                        </summary>
+                        <p>la persona o le persone fisiche</p>
+                        </details><br />
+            
+            <label>
+                <input name="progetto" type="radio">Si <input name="progetto" value="nome presentatore" type="text" size="40" maxlength="35" ><br /> 
+                <input name="progetto" type="radio">No
+            </label><br /><br />
+                        <details>
+                            <summary>
+                            Secondo te può avere un'applicazione reale all'interno di un processo di sviluppo?
+                            </summary>
+                            <p>in un azienda potrebbe avere un impiego reale?</p>
+                        </details><br />
+
+
+            
+            <label>
+            
+                <input name="progetto" type="radio">Si <input name="progetto" value="perchè..." type="text" size="50" maxlength="100"> <br /><br />
+                <input name="progetto" type="radio">No <input name="progetto" value="perchè..." type="text" size="50" maxlength="100"> <br /><br />
+                
+            </label>
+                        <details>
+                            <summary>
+                            Hai dei suggerimenti?
+                            <summary>
+                            <p>qualsiasi tipo di consiglio oppure contatto oppure consiglio utile</p>
+                        </details>
+
+            <label>
+            
+                <input name="progetto" type="radio"> No <br />
+                <input name="progetto" type="radio"> Si <br />
+                <textarea name="consigli" rows="10" cols="20">Scrivi qui se hai dei consigli...</textarea> <br /><br />
+            </label>
+            
+            <label>
+            Valutazioni finali:<br /><br />
+            
+                PRESENTAZIONE<input name="valutazioni" type="range" min="0" max="10" step="1" >
+                IDEA<input name="valutazioni" type="range" min="0" max="10" step="1" >
+                UTILITA'<input name="valutazioni" type="range" min="0" max="10" step="1" ><br /><br />
+                <textarea name="commenti" rows="10" cols="40">Note aggiuntive</textarea>
+                
+            </label><br /><br />
+            
+            <!--inserisco il bottone submit e reset-->
+            <button id="tastoc" type="submit" form="sondaggio" value="Invia il modulo">Conferma</button>
+            <button id="tastor" type="reset" form="sondaggio" value="Cancella il modulo">Cancella</button>
+            
+        </fieldset>
+        
+    </form>
+    <a href="index.html">Torna alla Homepage</a>
+</body>
+    <script>
+        prompt("BENVENUTO/A sono il PC di Mauri, inserisci 987 per iniziare il Sondaggio");
+    </script>
+
+</html>

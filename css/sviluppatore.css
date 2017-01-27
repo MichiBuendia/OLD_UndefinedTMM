@@ -1,0 +1,192 @@
+				/*SONO LA PAGINA DI CODICE IN CSS*/
+				
+/*-----------------------------------------------------------------------------
+				f o r m a t    d i     b a s e
+-----------------------------------------------------------------------------*/
+body{
+	padding:0;
+	margin:0;
+	background-image: url(images/binarybg.jpg);
+	background-size:cover;
+	
+	
+}
+
+h1{font-family: 'Roboto Mono', monospace;}
+p{
+	font-family: 'Roboto Mono', monospace;
+	padding:10px;
+	float:left;
+	clear:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------
+				c l a s s i   ,    s e l e t t o r i ( # )
+-----------------------------------------------------------------------------*/
+#main{
+	margin:0 auto;
+	margin-top: 50px;
+	width:50%;
+	height:800px;
+	border: 5px groove #6495ED;
+	background-color:black;
+	color:white;
+	padding-left:30px;
+	padding-right:30px;
+	text-align:justify;
+	border-radius:30px;
+	
+}
+
+#ttl{
+	color:#00FF00;
+}
+
+#nick{
+	color:#F0E68C;
+	font-size:small;
+}
+
+#it{
+	text-decoration: italic 4px;
+	text-align:center;
+}
+
+#img{
+	width:150px;
+	height:170px;
+	background-image:url(images/fotocv.jpg);
+	background-size: cover;
+	background-position: -12px 0px;
+	float:right;
+	clear:right;
+	margin-right:30px;
+	border-radius:30px;
+	position:relative;
+	bottom:35px;
+	right:35px;	
+		
+}
+
+#txt{
+	width:70%;
+}
+
+#skills{
+	width:250px;
+	height:360px;
+	float:right;
+	clear:right;
+	position:relative;
+	bottom:180px;
+	
+}
+
+#skills li{
+	list-style-type: none;
+	padding:10px;
+	position:relative;
+	left:-10px;
+}
+
+#spanB{font-size:18px;color:white;}
+
+#js{
+	font-size:18px;
+	color:#ADFF2F;
+	text-align:left;
+}
+
+#php{
+	font-size:18px;
+	color:#C71585;
+	text-align:left;
+}
+
+#htcs{
+	font-size:18px;
+	color:#FDE910;
+	text-align:left;
+}
+
+#jv{
+	font-size:18px;
+	color:#99CBFF;
+	text-align:left;
+}
+
+#bash{
+	font-size:18px;
+	color:#0000FF;
+	text-align:left;
+}
+
+#sql{
+	font-size:18px;
+	color:#964B00;
+	text-align:left;
+}
+
+#img1{
+	position:relative;
+	top:550px;
+	right:600px;
+}
+
+#img2{
+	position:relative;
+	top:550px;
+	right:580px;
+}
+
+#img3{
+	position:relative;
+	top: 130px;
+	left: 90px;
+}
+
+#img4{
+	position:relative;
+	top:100px;
+	left:110px;
+
+}
+
+#home{
+	position:relative;
+	top:600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

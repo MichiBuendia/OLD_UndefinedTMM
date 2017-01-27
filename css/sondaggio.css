@@ -1,0 +1,113 @@
+/*------------------------------------------------------
+format di base
+    |   |   |
+    V   V   V
+------------------------------------------------------*/
+
+html {
+    height: 100%;
+    width: 100%;
+    
+}
+
+body {
+    font: 14px Verdana;
+    color: black;
+    text-align:justify;
+    background-color: #CCFFFF;
+
+/*FANCULO IL BODY NON HA IL RESIZE FOTTITI*/
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+    font-size: 56px;
+    color: #0066FF;
+    text-transform:uppercase;
+    text-align: center;
+    
+    
+}
+
+#titoletti {
+    font-family: 'Indie Flower', cursive;
+    font-size: 32px;
+    color: gray;
+    text-decoration: underline;
+
+}
+
+legend {
+    font: 20px Verdana;
+    color: yellowgreen;
+    font-weight: bold;
+    
+}
+
+#italic{
+    font: italic;
+    color: pink;
+}
+fieldset {
+    width: 55%;
+    
+}
+
+details {
+    font: 13px Verdana italic;
+    text-indent: 15px;
+}
+
+details summary {
+    font: 16px Verdana italic;
+    
+}
+#space {
+    margin-left: 20px;
+}
+
+/*------------------------------------------------------
+format dei bottoni conferma e cancella
+    |   |   |
+    V   V   V
+------------------------------------------------------*/
+
+#tastoc {
+    background-color: gray;
+    font: 18px;
+    color: yellowgreen;
+    width: 100px;
+    height: 30px;
+    border: 1.5px dotted;
+    border-radius: 6px;
+    
+
+}
+
+#tastoc:hover {
+    background-color: yellowgreen;
+    font:18px;
+    color: gray;
+    border: 1.5px dotted;
+    border-radius: 10px;
+}
+
+#tastor {
+    background-color: gray;
+    font: 18px;
+    color: red;
+    width: 100px;
+    height: 30px;
+    border: 1.5px dotted;
+    border-radius: 6px;
+
+}
+
+#tastor:hover {
+    background-color: red;
+    font:18px;
+    color: gray;
+    border: 1.5px dotted;
+    border-radius: 10px;
+}
+
