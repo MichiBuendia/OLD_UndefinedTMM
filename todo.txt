@@ -1,0 +1,4 @@
+1 - risistemare sito web
+    - eliminare pagine di troppo (sarebbe interessante avere al massimo 4-5 pagine per lettore/programmatore) 
+    - gestire i css in poche pagine generali
+    - rivedere argomenti che si vogliono trasmettere subito al lettore sulla home
