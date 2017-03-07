@@ -1,0 +1,39 @@
+invece di avere 1000 pagine direi che 3 o 4 vanno più che bene, 
+aiuta sia te a programmare sia chi ci deve navigare sul sito.
+
+home
+  -presentazione del prodotto 
+  -punti di forza (solo quelli altrimenti che pubblicità sarebbe XD )
+  -cosa offre di in più ai competitor
+  -eventuali commenti sul prodotto
+  
+  direi che come carne sul fuoco c'è ne parecchia già solo con questi elementi
+  
+pagina in più 
+  - si può mettere qualsiasi cosa che passa in mente
+  
+
+about us
+  - team programmatore eventuali sostenitori storia della vita e bla bla
+
+contact
+  - se vuoi essere trovato te tocca dire come farti trovare altrimenti come 
+    fai a diventare famoso XD
+    
+
+le pagine che hai creato in eccesso possono essere tranquillamente considerati
+argomenti del sito
+
+home (index)
+  -analisi 
+  -sondaggio
+  -esperti
+  -features (futures?)
+  -pgProgetto (wat?)
+  
+  
+about us
+  -sviluppatore
+  -team
+  -skills
+  -finance (chi ha creduto al tuo progetto anche danarosamente parlando ;D )
